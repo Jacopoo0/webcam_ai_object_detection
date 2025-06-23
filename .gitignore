@@ -1,0 +1,9 @@
+/.venv
+/.vscode
+/data_science
+/esercizi
+/huggingface
+/test_yolo
+/yolo
+/yolo11n.pt
+/__pycache__
