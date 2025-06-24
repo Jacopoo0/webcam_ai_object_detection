@@ -71,7 +71,3 @@ This Python script demonstrates real-time object detection using a webcam feed w
 - Adjust the `show` parameter to False if you don't want video display
 - Modify the termination condition for different use cases
 - Add additional processing for the detected objects (tracking, counting, etc.)
-
-## Note
-
-The script currently has a minor logical issue where it compares `boxes` (a collection) with a number. To count detected objects, you might want to use `len(boxes)` instead.
